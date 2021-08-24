@@ -16,7 +16,7 @@
 <li>🖥️ Currently Learning <a href="https://python.org">Python</a></li>
 <li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/hoseindamavandi">GitHub</a></li>
 <li>🌐 I'm living in Mashhad, Razavi Khorasan, Iran</a></li>
-<li>🎂 I was Born on 1st March, 2000 , and I am a 21 year old boy</li>
+<li>🎂 I was Born on 1st March, 2000 ; 21 year old boy</li>
 </samp>
 </ul>
 </br>
