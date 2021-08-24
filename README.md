@@ -8,7 +8,7 @@
     </a>
 </p>
 
-<h2 align="left">📝 Summary ofmy biography:</h2>
+<h2 align="left">📝 Summary of my biography:</h2>
 <ul align="left" style="list-style-type:none;">
 <samp>
 <li>🏷️ My name is <b>Hosein Damavndi</b></li>
