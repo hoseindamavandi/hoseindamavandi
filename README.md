@@ -12,11 +12,11 @@
 <ul align="left" style="list-style-type:none;">
 <samp>
 <li>🏷️ My name is <b>Hosein Damavndi</b></li>
-<li>🎓 I'm student in Sadjad University of Technology </li>
+<li>🎓 I'm a student at Sadjad University of Technology </li>
 <li>🖥️ Currently Learning <a href="https://python.org">Python</a></li>
 <li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/hoseindamavandi">GitHub</a></li>
 <li>🌐 I'm living in Mashhad, Razavi Khorasan, Iran</a></li>
-<li>🎂 I'm born on 1th March in 2000, and I am a 21 years old boy</li>
+<li>🎂 I was Born on 1st March, 2000 , and I am a 21 year old boy</li>
 </samp>
 </ul>
 </br>
