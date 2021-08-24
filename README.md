@@ -8,7 +8,7 @@
     </a>
 </p>
 
-<h2 align="left">📝 Summary ofmy biography</h2>
+<h2 align="left">📝 Summary ofmy biography:</h2>
 <ul align="left" style="list-style-type:none;">
 <samp>
 <li>🏷️ My name is <b>Hosein Damavndi</b></li>
@@ -20,7 +20,7 @@
 </samp>
 </ul>
 </br>
-<h2 align="left">🔗 My accounts</h2>
+<h2 align="left">🔗 My accounts:</h2>
 <p align="left">
       <a href="https://instagram.com/hoseindamavandii">
         <img align="left" alt="python" width="50" src="https://image.flaticon.com/icons/png/512/2111/2111463.png">
@@ -37,7 +37,7 @@
 </br>
 </br>
 
-<h2 align="left">🔨 Languages and Tools</h2>
+<h2 align="left">🔨 Languages and Tools:</h2>
 <p align="left">
     <a href="https://www.python.org" target="_blank">
         <img align="left" alt="python" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
