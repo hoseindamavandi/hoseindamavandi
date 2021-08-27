@@ -61,7 +61,7 @@
         <img align="left" alt="css" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
     </a>
     <a href="https://getbootstrap.com/" target="_blank">
-        <img align="left" alt="javascript" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"
+        <img align="left" alt="bootstrap" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"
     </a>
 </p>
 
@@ -74,21 +74,27 @@
 ---
 
 <p align="center">
+    <a href="#">
     <img
         width="49%"
         src="https://github-readme-stats.vercel.app/api?username=hoseindamavandi&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
+    </a>
+    <a href="#">
     <img
         width="49%"
         src="https://github-readme-streak-stats.herokuapp.com?user=hoseindamavandi&theme=tokyonight"
     />
+    </a>
 </p>
 
 <p align="center">
+    <a href="#">
     <img
         width="49%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseindamavandi&layout=compact&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=Most+Used+Languages"
     />
+        </a>
 </p>
 
 
