@@ -13,7 +13,6 @@
 <samp>
 <li>🏷️ My name is <b>Hosein Damavndi</b></li>
 <li>🎓 I'm a student at Sadjad University of Technology </li>
-<li>🖥️ Currently Learning <a href="https://python.org">Python</a></li>
 <li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/hoseindamavandi">GitHub</a></li>
 <li>🌐 I'm living in Mashhad, Razavi Khorasan, Iran</a></li>
 <li>🎂 I was Born on 1st March, 2000 </li>
