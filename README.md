@@ -38,6 +38,9 @@
 
 <h2 align="left">🔨 Languages and Tools:</h2>
 <p align="left">
+    <a href="https://opencv.org/" target="_blank">
+        <img align="left" alt="opencv" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/487px-OpenCV_Logo_with_text_svg_version.svg.png">
+    </a>
     <a href="https://www.python.org" target="_blank">
         <img align="left" alt="python" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
     </a>
