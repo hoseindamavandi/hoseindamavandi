@@ -25,7 +25,7 @@
         <img align="left" alt="python" width="50" src="https://image.flaticon.com/icons/png/512/2111/2111463.png">
     </a>
     <a href="https://t.me/Hosein_Damavandi">
-        <img align="left" alt="telegram" width="50" src="https://image.flaticon.com/icons/png/512/2111/2111552.png">
+        <img align="left" alt="telegram" width="50" src="https://user-images.githubusercontent.com/83751182/157036046-c312cc36-064b-4a9d-bfea-f16894d9cea9.png">
     </a>
     <a href="https://www.linkedin.com/in/hosein-damvandi">
         <img align="left" alt="linkdin" width="50" src="https://image.flaticon.com/icons/png/512/174/174857.png">
