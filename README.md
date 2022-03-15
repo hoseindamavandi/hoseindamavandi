@@ -22,13 +22,13 @@
 <h2 align="left">🔗 My accounts:</h2>
 <p align="left">
       <a href="https://instagram.com/hoseindamavandii">
-        <img align="left" alt="python" width="50" src="https://image.flaticon.com/icons/png/512/2111/2111463.png">
+        <img align="left" alt="python" width="50" src="https://user-images.githubusercontent.com/83751182/158367539-0e78f8d1-882e-4f0b-aa5d-3d6b33aba72b.png">     
     </a>
     <a href="https://t.me/Hosein_Damavandi">
         <img align="left" alt="telegram" width="50" src="https://user-images.githubusercontent.com/83751182/157036046-c312cc36-064b-4a9d-bfea-f16894d9cea9.png">
     </a>
     <a href="https://www.linkedin.com/in/hosein-damvandi">
-        <img align="left" alt="linkdin" width="50" src="https://image.flaticon.com/icons/png/512/174/174857.png">
+        <img align="left" alt="linkdin" width="50" src="https://user-images.githubusercontent.com/83751182/158367724-a158c595-576a-4e5c-b6aa-c8d69defc616.png">   
     </a>
 </p>
 
