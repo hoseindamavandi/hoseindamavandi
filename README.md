@@ -50,6 +50,9 @@
     <a href="https://opencv.org/" target="_blank">
         <img align="left" alt="opencv" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/487px-   OpenCV_Logo_with_text_svg_version.svg.png">
     </a>
+    <a href="https://www.arduino.cc/" target="_blank">
+        <img align="left" alt="jupyter" width="50" src="https://user-images.githubusercontent.com/83751182/179785121-bb0149a9-bea9-4d89-9826-df4c00b3b76e.png">
+    </a>
     <a href="https://jupyter.org/" target="_blank">
         <img align="left" alt="jupyter" width="50" src="https://jupyter.org/assets/homepage/main-logo.svg">
     </a>
