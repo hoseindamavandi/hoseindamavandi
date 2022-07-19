@@ -50,6 +50,9 @@
     <a href="https://opencv.org/" target="_blank">
         <img align="left" alt="opencv" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/487px-   OpenCV_Logo_with_text_svg_version.svg.png">
     </a>
+    <a href="https://jupyter.org/" target="_blank">
+        <img align="left" alt="jupyter" width="50" src="https://camo.githubusercontent.com/f38f282ae2f72fc796e9273f64a0b35084f3ef389d65e784dd5182072fe11a4e/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6a7570797465722e706e67">
+    </a>
     <a href="https://git-scm.com/" target="_blank">
         <img align="left" alt="git" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
     </a>
